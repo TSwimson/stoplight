@@ -40,7 +40,7 @@ Gem::Specification.new do |gem|
     'honeybadger' => '2.5',
     'sentry-raven' => '1.2',
     'rake' => '11.1',
-    'redis' => '3.2',
+    'redis' => '4.1',
     'rspec' => '3.3',
     'rubocop' => '0.40.0',
     'slack-notifier' => '1.3',
